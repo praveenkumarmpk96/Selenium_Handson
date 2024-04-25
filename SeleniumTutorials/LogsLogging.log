@@ -1,0 +1,4 @@
+2023-12-01 11:51:25 INFO  PropertyFileExample:15 - This is an info
+2023-12-01 11:51:25 WARN  PropertyFileExample:16 - This is a warning
+2023-12-01 11:51:25 ERROR PropertyFileExample:17 - This is an error
+2023-12-01 11:51:25 FATAL PropertyFileExample:18 - This is a fatal message

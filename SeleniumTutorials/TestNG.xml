@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Test Suite" verbose="2" parallel="methods" thread-count="2">
+<listeners>
+<listener class-name= "testNG.ListenersExample"></listener>
+</listeners>
+<test name="Test Cases" parallel="methods" thread-count="2">
+<classes>
+<class name = "testNG.ParallelTesting"></class>
+</classes>
+</test>
+</suite>
+
+<!-- <parameter name = "Name" value = "praveen"></parameter>  -->
+
+<!-- <suite name = "Test Suite" verbose="2" parallel="methods" thread-count="2">
+<test name="Test Cases" parallel="methods" thread-count="2">  -->
+
+<!-- <class name = "testNG.Dependencies"></class>
+<class name = "testNG.SetPriority"></class>
+<class name = "testNG.SampleTestCase"></class>
+<class name = "testNG.SkipTestCase"></class>
+<class name = "testNG.GroupingExample"></class> 
+<class name = "testNG.ParameterizationExample"></class>
+<class name = "testNG.ParallelTesting"></class>-->
+
+<!--  <groups>
+<run>
+<include name = "moto"></include>
+<include name = "vivo"></include>
+</run>
+</groups> -->

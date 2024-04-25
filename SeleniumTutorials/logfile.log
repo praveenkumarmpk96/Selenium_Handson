@@ -1,0 +1,16 @@
+2023-12-01 12:05:04 INFO  XMLConfiguratorExample:16 - This is an info
+2023-12-01 12:05:04 WARN  XMLConfiguratorExample:17 - This is a warning
+2023-12-01 12:05:04 ERROR XMLConfiguratorExample:18 - This is an error
+2023-12-01 12:05:04 FATAL XMLConfiguratorExample:19 - This is a fatal message
+2023-12-01 12:07:15 INFO  XMLConfiguratorExample:16 - This is an info
+2023-12-01 12:07:15 WARN  XMLConfiguratorExample:17 - This is a warning
+2023-12-01 12:07:15 ERROR XMLConfiguratorExample:18 - This is an error
+2023-12-01 12:07:15 FATAL XMLConfiguratorExample:19 - This is a fatal message
+2023-12-01 12:07:56 INFO  XMLConfiguratorExample:16 - This is an info
+2023-12-01 12:07:56 WARN  XMLConfiguratorExample:17 - This is a warning
+2023-12-01 12:07:56 ERROR XMLConfiguratorExample:18 - This is an error
+2023-12-01 12:07:56 FATAL XMLConfiguratorExample:19 - This is a fatal message
+2023-12-01 12:08:36 INFO  XMLConfiguratorExample:16 - This is an info
+2023-12-01 12:08:36 WARN  XMLConfiguratorExample:17 - This is a warning
+2023-12-01 12:08:36 ERROR XMLConfiguratorExample:18 - This is an error
+2023-12-01 12:08:36 FATAL XMLConfiguratorExample:19 - This is a fatal message

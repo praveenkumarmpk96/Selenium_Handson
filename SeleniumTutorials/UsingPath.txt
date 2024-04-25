@@ -1,0 +1,1 @@
+Path is more or like outputstream to write in bytes
